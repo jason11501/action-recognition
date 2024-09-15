@@ -1,5 +1,7 @@
 # action-recognition
 
+https://blog.cads.live/action-recognition/
+
 ## real-time
 https://github.com/thieulong/LSTM-Actions-Recognition
 
